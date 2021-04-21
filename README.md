@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 #### <strong>To use json server</strong>
 
-> ex. npx json-server data/db.json --port 8000
+> example. npx json-server data/db.json --port 8000
 
 ## Available Scripts
 
