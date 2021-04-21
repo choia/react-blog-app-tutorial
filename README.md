@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#### <strong>Run the following to create an react app</strong>
+
+> npx create-react-app blog-app
+
+#### <strong>To use json server</strong>
+
+> ex. npx json-server data/db.json --port 8000
+
 ## Available Scripts
 
 In the project directory, you can run:
